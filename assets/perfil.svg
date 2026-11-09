@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" role="img" aria-label="perfil.json de Marcos Durán">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 15px; }
+    .num { fill: #5A514A; }
+    .p { fill: #E7E2D9; }
+    .k { fill: #7DD3A8; }
+    .s { fill: #F5B544; }
+    .titulo { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 13px; fill: #8B8178; }
+    .estado { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 12px; fill: #5A514A; }
+    .cursor { animation: parpadeo 1.1s steps(1) infinite; }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="838" height="318" rx="10" fill="#14110F" stroke="#2A2420" stroke-width="2"/>
+  <path d="M1 11a10 10 0 0 1 10-10h818a10 10 0 0 1 10 10v27H1z" fill="#1C1815"/>
+  <circle cx="24" cy="20" r="6" fill="#F07167"/>
+  <circle cx="44" cy="20" r="6" fill="#F5B544"/>
+  <circle cx="64" cy="20" r="6" fill="#7DD3A8"/>
+  <text x="420" y="24" text-anchor="middle" class="titulo">perfil.json · marcosduran14235</text>
+
+  <g class="mono">
+    <text x="24" y="72" class="num">1</text>
+    <text x="60" y="72" class="p">{</text>
+
+    <text x="24" y="96" class="num">2</text>
+    <text x="60" y="96" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"nombre"</tspan><tspan class="p">: </tspan><tspan class="s">"Marcos Durán"</tspan><tspan class="p">,</tspan></text>
+
+    <text x="24" y="120" class="num">3</text>
+    <text x="60" y="120" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"rol"</tspan><tspan class="p">: </tspan><tspan class="s">"Técnico jefe · Custom Soft Lab"</tspan><tspan class="p">,</tspan></text>
+
+    <text x="24" y="144" class="num">4</text>
+    <text x="60" y="144" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"enfoque"</tspan><tspan class="p">: [</tspan><tspan class="s">"SaaS a medida"</tspan><tspan class="p">, </tspan><tspan class="s">"front-end"</tspan><tspan class="p">, </tspan><tspan class="s">"automatización"</tspan><tspan class="p">],</tspan></text>
+
+    <text x="24" y="168" class="num">5</text>
+    <text x="60" y="168" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"experiencia"</tspan><tspan class="p">: </tspan><tspan class="s">"3 años en proyectos web"</tspan><tspan class="p">,</tspan></text>
+
+    <text x="24" y="192" class="num">6</text>
+    <text x="60" y="192" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"base"</tspan><tspan class="p">: </tspan><tspan class="s">"Argentina, en remoto con España y Latinoamérica"</tspan><tspan class="p">,</tspan></text>
+
+    <text x="24" y="216" class="num">7</text>
+    <text x="60" y="216" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"stack"</tspan><tspan class="p">: [</tspan><tspan class="s">"React"</tspan><tspan class="p">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="p">, </tspan><tspan class="s">"NestJS"</tspan><tspan class="p">, </tspan><tspan class="s">"PostgreSQL"</tspan><tspan class="p">],</tspan></text>
+
+    <text x="24" y="240" class="num">8</text>
+    <text x="60" y="240" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">"regla"</tspan><tspan class="p">: </tspan><tspan class="s">"especificación primero, pruebas siempre"</tspan></text>
+
+    <text x="24" y="264" class="num">9</text>
+    <text x="60" y="264" class="p">}</text>
+    <rect x="72" y="251" width="9" height="17" fill="#F5B544" class="cursor"/>
+  </g>
+
+  <line x1="1" y1="288" x2="839" y2="288" stroke="#2A2420" stroke-width="1"/>
+  <text x="24" y="308" class="estado">JSON · UTF-8</text>
+  <text x="816" y="308" text-anchor="end" class="estado">9 líneas · sin errores</text>
+</svg>
