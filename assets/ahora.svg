@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="En qué estoy trabajando ahora">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 15px; fill: #E7E2D9; }
+    .etiqueta { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 12px; fill: #8B8178; letter-spacing: 1.5px; }
+    .titulo { font-family: 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; font-size: 13px; fill: #8B8178; }
+    .pulso { animation: pulso 2.4s ease-in-out infinite; transform-origin: 36px 82px; }
+    @keyframes pulso { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  </style>
+  <rect x="1" y="1" width="838" height="188" rx="10" fill="#14110F" stroke="#2A2420" stroke-width="2"/>
+  <path d="M1 11a10 10 0 0 1 10-10h818a10 10 0 0 1 10 10v27H1z" fill="#1C1815"/>
+  <text x="24" y="24" class="titulo">~/ahora</text>
+  <text x="816" y="24" text-anchor="end" class="etiqueta">EN CURSO</text>
+
+  <circle cx="36" cy="82" r="6" fill="#F5B544" class="pulso"/>
+  <text x="56" y="87" class="mono">Coordinando entregas de programas de gestión a medida en Custom Soft Lab</text>
+
+  <circle cx="36" cy="118" r="6" fill="#7DD3A8"/>
+  <text x="56" y="123" class="mono">Construyendo Rastro: atribución de ventas para Instagram</text>
+
+  <circle cx="36" cy="154" r="6" fill="#F07167"/>
+  <text x="56" y="159" class="mono">Automatizando captación y seguimiento con GoHighLevel y ManyChat</text>
+</svg>
